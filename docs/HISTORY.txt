@@ -5,7 +5,7 @@ Changelog
 1.16.1 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Fix workflow security and brain not updated when setting workflow state on object [Nachtalb]
 
 
 1.16.0 (2018-08-07)
